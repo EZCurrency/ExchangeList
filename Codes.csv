@@ -1,157 +1,159 @@
 Code,Name,Fiat,Crypto,Resource
-AED,Afghan Afghani,1,0,0
-AFN,European Euro,1,0,0
-ALL,Albanian Lek,1,0,0
-AMD,Algerian Dinar,1,0,0
-ANG,United States Dollar,1,0,0
-AOA,Angolan Kwanza,1,0,0
-ARS,East Caribbean Dollar,1,0,0
-AUD,Argentine Peso,1,0,0
-AWG,Armenian Dram,1,0,0
-AZN,Aruban Florin,1,0,0
-BAM,Saint Helena Pound,1,0,0
-BBD,Australian Dollar,1,0,0
-BDT,Azerbaijan Manat,1,0,0
-BGN,Bahamian Dollar,1,0,0
+AFN,Afghan Afghani,1,0,0
+EUR,Albanian Lek,1,0,0
+DZD,Algerian Dinar,1,0,0
+USD,Angolan Kwanza,1,0,0
+XCD,Argentine Peso,1,0,0
+AMD,Armenian Dram,1,0,0
+AWG,Aruban Florin,1,0,0
+SHP,Australian Dollar,1,0,0
+AZN,Azerbaijan Manat,1,0,0
+BSD,Bahamian Dollar,1,0,0
 BHD,Bahraini Dinar,1,0,0
-BIF,Bangaladeshi Taka,1,0,0
-BMD,Barbadian Dollar,1,0,0
-BND,Belarusian Dollar,1,0,0
-BOB,Belize Dollar,1,0,0
-BRL,West African CFA Franc,1,0,0
-BSD,Bermudian Dollar,1,0,0
+BDT,Bangladeshi Taka,1,0,0
+BBD,Barbadian Dollar,1,0,0
+BYN,Belarusian Ruble,1,0,0
+BZD,Belize Dollar,1,0,0
+XOF,Bermudian Dollar,1,0,0
 BTN,Bhutanese Ngultrum,1,0,0
-BWP,Bolivian Boliviano,1,0,0
-BYN,Bosnia and Herzegovina Convertible Mark,1,0,0
-BZD,Botswana Pula,1,0,0
-CAD,Brazilian Real,1,0,0
-CDF,Brunei Dollar,1,0,0
-CHF,Bulgarian Lev,1,0,0
-CLP,Burundi Franc,1,0,0
-CNY,Cape Verdean Escudo,1,0,0
-COP,Cambodian Riel,1,0,0
-CRC,Central African CFA Franc,1,0,0
-CUP,Canadian Dollar,1,0,0
-CVE,Cayman Islands Dollar,1,0,0
-CZK,New Zealand Dollar,1,0,0
-DJF,Chilean Peso,1,0,0
-DKK,Chinese Yuan Renminbi,1,0,0
-DOP,Colombian Peso,1,0,0
-DZD,Comorian Franc,1,0,0
-EGP,Congolese Franc,1,0,0
-ERN,Costa Rican Colon,1,0,0
-ETB,Croatian Kuna,1,0,0
-EUR,Cuban Peso,1,0,0
-FKP,Netherlands Antillean Guilder,1,0,0
-GBP,Czech Koruna,1,0,0
-GEL,Danish Krone,1,0,0
-GGP,Djiboutian Franc,1,0,0
-GHS,Dominican Peso,1,0,0
-GIP,Egyptian Pound,1,0,0
-GMD,Eritrean Nakfa,1,0,0
-GNF,Ethiopian Birr,1,0,0
-GTQ,Falkland Islands Pound,1,0,0
-GYD,CFP Franc,1,0,0
-HKD,Gambian Dalasi,1,0,0
-HNL,Georgian Lari,1,0,0
-HRK,Ghanaian Cedi,1,0,0
-HTG,Gibraltar Pound,1,0,0
-HUF,Guatermalan Quetzal,1,0,0
-IDR,Gurnsey Pound,1,0,0
-ILS,Guinean Franc,1,0,0
-IMP,Guyanese Dollar,1,0,0
-INR,Haitian Gourde,1,0,0
-IQD,Honduran Lempira,1,0,0
-IRR,Hong Kong Dollar,1,0,0
-ISK,Hungarian Forint,1,0,0
-JEP,Icelandic Korona,1,0,0
-JMD,Indian Rupee,1,0,0
-JOD,Indonesian Rupiah,1,0,0
-JPY,Iranian Rial,1,0,0
-KES,Iraqi Dinar,1,0,0
-KGS,Manx Pound,1,0,0
-KHR,Israeli New Shekel,1,0,0
-KMF,Jamaican Dollar,1,0,0
-KRW,Japanese Yen,1,0,0
-KWD,Jersey Pound,1,0,0
-KWP,Jordanian Dinar,1,0,0
-KYD,Kazakhstani Tenge,1,0,0
-KZT,Kenyan Shilling,1,0,0
-LAK,Kuwaiti Dinar,1,0,0
-LBP,Kygyzstani Som,1,0,0
-LKR,Lao Kip,1,0,0
-LRD,Lebanese Pound,1,0,0
+BOB,Bolivian Boliviano,1,0,0
+BAM,Bosnia and Herzegovina Convertible Mark,1,0,0
+BWP,Botswana Pula,1,0,0
+BRL,Brazilian Real,1,0,0
+BND,Brunei Dollar,1,0,0
+BGN,Bulgarian Lev,1,0,0
+BIF,Burundi Franc,1,0,0
+CVE,CFP Franc,1,0,0
+GMD,Cambodian Riel,1,0,0
+XAF,Canadian Dollar,1,0,0
+KYD,Cape Verdean Escudo,1,0,0
+KHR,Cayman Islands Dollar,1,0,0
+NZD,Central African CFA Franc,1,0,0
+CAD,Chilean Peso,1,0,0
+CNY,Chinese Yuan Renminbi,1,0,0
+COP,Colombian Peso,1,0,0
+KMF,Comorian Franc,1,0,0
+CDF,Congolese Franc,1,0,0
+CRC,Costa Rican Colon,1,0,0
+HRK,Croatian Kuna,1,0,0
+CUP,Cuban Peso,1,0,0
+ANG,Czech Koruna,1,0,0
+DKK,Danish Krone,1,0,0
+DJF,Djiboutian Franc,1,0,0
+DOP,Dominican Peso,1,0,0
+EGP,East Caribbean Dollar,1,0,0
+ARS,Egyptian Pound,1,0,0
+ERN,Eritrean Nakfa,1,0,0
+ETB,Ethiopian Birr,1,0,0
+FKP,European Euro,1,0,0
+ALL,Falkland Islands Pound,1,0,0
+FJD,Fijian Dollar,1,0,0
+XPF,Gambian Dalasi,1,0,0
+GEL,Georgian Lari,1,0,0
+GHS,Ghanaian Cedi,1,0,0
+GIP,Gibraltar Pound,1,0,0
+GTQ,Guatemalan Quetzal,1,0,0
+GGP,Guernsey Pound,1,0,0
+GNF,Guinean Franc,1,0,0
+GYD,Guyanese Dollar,1,0,0
+HTG,Haitian Gourde,1,0,0
+HNL,Honduran Lempira,1,0,0
+HKD,Hong Kong Dollar,1,0,0
+HUF,Hungarian Forint,1,0,0
+ISK,Icelandic Krona,1,0,0
+INR,Indian Rupee,1,0,0
+IDR,Indonesian Rupiah,1,0,0
+IRR,Iranian Rial,1,0,0
+IQD,Iraqi Dinar,1,0,0
+IMP,Israeli New Shekel,1,0,0
+JMD,Jamaican Dollar,1,0,0
+JPY,Japanese Yen,1,0,0
+JEP,Jersey Pound,1,0,0
+JOD,Jordanian Dinar,1,0,0
+KZT,Kazakhstani Tenge,1,0,0
+KES,Kenyan Shilling,1,0,0
+KWD,Kuwaiti Dinar,1,0,0
+KGS,Kyrgyzstani Som,1,0,0
+LAK,Lao Kip,1,0,0
+LBP,Lebanese Pound,1,0,0
 LSL,Lesotho Loti,1,0,0
-LYD,Liberian Dollar,1,0,0
-MAD,Libyan Dinar,1,0,0
-MDL,Swiss Franc,1,0,0
-MGA,Macanese Pataca,1,0,0
+LRD,Liberian Dollar,1,0,0
+LYD,Libyan Dinar,1,0,0
+CHF,Macanese Pataca,1,0,0
 MKD,Macedonian Denar,1,0,0
-MMK,Malagasy Ariary,1,0,0
-MNT,Malawian Kwacha,1,0,0
-MOP,Malaysian Ringgit,1,0,0
-MRO,Maldivian Rufiyaa,1,0,0
-MUR,Mauritanian Ouguiya,1,0,0
-MVR,Mauritian Rupee,1,0,0
-MWK,Mexican Peso,1,0,0
-MXN,Moldovan Leu,1,0,0
-MYR,Mongolian Turgrik,1,0,0
-MZN,Moroccan Dirham,1,0,0
-NAD,Mozambican Metical,1,0,0
-NGN,Myanmar Kyat,1,0,0
-NIO,Namibian Dollar,1,0,0
-NOK,Nepalese Rupee,1,0,0
-NPR,Nicaraguan Cordoba,1,0,0
-NZD,Nigerian Naira,1,0,0
-OMR,North Korean Won,1,0,0
-PEN,Norwegian Krone,1,0,0
-PGK,Omani Rial,1,0,0
-PHP,Pakistani Rupee,1,0,0
-PKR,Papua New Guinean Kina,1,0,0
-PLN,Paraguayan Guarani,1,0,0
-PYG,Peruvian Sol,1,0,0
-QAR,Philippine Peso,1,0,0
-RON,Polish Zloty,1,0,0
-RSD,Qatari Riyal,1,0,0
-RUB,Romanian Leu,1,0,0
-RWF,Russian Ruble,1,0,0
-SAR,Rwandan Franc,1,0,0
-SBD,Somoan Tala,1,0,0
-SCR,Sao Tome and Principe Dobra,1,0,0
-SDG,Saudi Arabian Riyal,1,0,0
-SEK,Serbian Dinar,1,0,0
-SGD,Seychellois Rupee,1,0,0
-SHP,Sierra Leonean Leone,1,0,0
-SLL,Singapore Dollar,1,0,0
-SOS,Solomon Islands Dollar,1,0,0
-SSP,Somali Shilling,1,0,0
-STD,South African Rand,1,0,0
-SYP,Pound Sterling,1,0,0
-SZL,South Korean Won,1,0,0
-THB,South Sudanese Pound,1,0,0
-TJS,Sri Lanhan Rupee,1,0,0
-TMT,Sudanese Pound,1,0,0
-TND,Swazi Lilangeni,1,0,0
-TOP,Swedish Krona,1,0,0
-TRY,Syrian Pound,1,0,0
-TTD,New Taiwan Dollar,1,0,0
+MGA,Malagasy Ariary,1,0,0
+MWK,Malawian Kwacha,1,0,0
+MYR,Malaysian Ringgit,1,0,0
+MVR,Maldivian Rufiyaa,1,0,0
+MRO,Manx Pound,1,0,0
+ILS,Mauritanian Ouguiya,1,0,0
+MUR,Mauritian Rupee,1,0,0
+MXN,Mexican Peso,1,0,0
+MDL,Moldovan Leu,1,0,0
+MNT,Mongolian Tugrik,1,0,0
+MAD,Moroccan Dirham,1,0,0
+MZN,Mozambican Metical,1,0,0
+MMK,Myanmar Kyat,1,0,0
+NAD,Namibian Dollar,1,0,0
+NPR,Nepalese Rupee,1,0,0
+NIO,Netherlands Antillean Guilder,1,0,0
+CZK,New Taiwan Dollar,1,0,0
+TJS,New Zealand Dollar,1,0,0
+CLP,Nicaraguan Cordoba,1,0,0
+NGN,Nigerian Naira,1,0,0
+KPW,North Korean Won,1,0,0
+NOK,Norwegian Krone,1,0,0
+OMR,Omani Rial,1,0,0
+PKR,Pakistani Rupee,1,0,0
+PGK,Papua New Guinean Kina,1,0,0
+PYG,Paraguayan Guarani,1,0,0
+PEN,Peruvian Sol,1,0,0
+PHP,Philippine Peso,1,0,0
+PLN,Polish Zloty,1,0,0
+QAR,Pound Sterling,1,0,0
+KRW,Qatari Riyal,1,0,0
+RON,Romanian Leu,1,0,0
+RUB,Russian Ruble,1,0,0
+RWF,Rwandan Franc,1,0,0
+WST,Saint Helena Pound,1,0,0
+AUD,Samoan Tala,1,0,0
+STD,Sao Tome and Principe Dobra,1,0,0
+SAR,Saudi Arabian Riyal,1,0,0
+RSD,Serbian Dinar,1,0,0
+SCR,Seychellois Rupee,1,0,0
+SLL,Sierra Leonean Leone,1,0,0
+SGD,Singapore Dollar,1,0,0
+SBD,Solomon Islands Dollar,1,0,0
+SOS,Somali Shilling,1,0,0
+ZAR,South African Rand,1,0,0
+GBP,South Korean Won,1,0,0
+SSP,South Sudanese Pound,1,0,0
+LKR,Sri Lankan Rupee,1,0,0
+SDG,Sudanese Pound,1,0,0
+SRD,Surinamese Dollar,1,0,0
+SZL,Swazi Lilangeni,1,0,0
+SEK,Swedish Krona,1,0,0
+SYP,Swiss Franc,1,0,0
+MOP,Syrian Pound,1,0,0
 TWD,Tajikistani Somoni,1,0,0
 TZS,Tanzanian Shilling,1,0,0
-UAH,Thai Baht,1,0,0
-UGX,Tongoan Pa'anga,1,0,0
-USD,Trinidad and Tobago Dollar,1,0,0
-UYU,Tunisian Dinar,1,0,0
-UZS,Turkish Lira,1,0,0
-VEF,Turkmen Manat,1,0,0
-VND,Ugandan Shilling,1,0,0
-VUV,Ukrainian Hryvnia,1,0,0
-WST,United Arab Emirates Dirham,1,0,0
-XAF,Uruguayan Peso,1,0,0
-XCD,Uzbekistani Som,1,0,0
-XOF,Vanuatu Vatu,1,0,0
-XPF,Venezuelan Bolivar,1,0,0
-YER,Vietnamese Dong,1,0,0
-ZAR,Yemeni Rial,1,0,0
+THB,Thai Baht,1,0,0
+TOP,Tongan Pa’Anga,1,0,0
+TTD,Trinidad and Tobago Dollar,1,0,0
+TND,Tunisian Dinar,1,0,0
+TRY,Turkish Lira,1,0,0
+TMT,Turkmen Manat,1,0,0
+UGX,Uae Dirham,1,0,0
+UYU,Ugandan Shilling,1,0,0
+UAH,Ukrainian Hryvnia,1,0,0
+AED,United States Dollar,1,0,0
+AOA,Uruguayan Peso,1,0,0
+UZS,Uzbekistani Som,1,0,0
+VUV,Vanuatu Vatu,1,0,0
+VEF,Venezuelan Bolivar,1,0,0
+VND,Vietnamese Dong,1,0,0
+YER,West African Cfa Franc,1,0,0
+BMD,Yemeni Rial,1,0,0
 ZMW,Zambian Kwacha,1,0,0
 ,,,,
 XAU,Gold,0,0,1
